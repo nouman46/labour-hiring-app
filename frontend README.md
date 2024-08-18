@@ -59,7 +59,9 @@ Run the App
 
 
 npm start
+
 Follow the instructions to run the app on an emulator or a physical device.
+
 
 **Dependencies**
 
